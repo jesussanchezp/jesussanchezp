@@ -1,5 +1,3 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jesussanchezp&data=repositories,commits&theme=viridescent)](https://github.com/jesussanchezp/)
-
 # Hi 👋, I'm Jesús Sánchez a Software Developer
 
 ## About me!
@@ -54,7 +52,3 @@ I have over 10 years of experience as a software developer and backend technical
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&labelColor=E7E7E7&logoColor=black&logo=jenkins)](https://www.jetbrains.com/idea/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=E7E7E7&logoColor=black&logo=intellijidea)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-39184A?style=for-the-badge&labelColor=E7E7E7&logoColor=black&logo=eclipseide)](https://www.eclipse.org/)
-
-#### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesussanchezp&hide_border=true&show_icons=true&bg_color=ffffff&title_color=0306A0&icon_color=black&text_bold=false&text_color=black)
